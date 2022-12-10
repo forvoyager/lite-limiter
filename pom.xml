@@ -15,7 +15,7 @@
     <resource.delimiter>${}</resource.delimiter>
     <project.sourceEncoding>UTF-8</project.sourceEncoding>
     <compiler.version>1.8</compiler.version>
-    <spring.version>5.0.10.RELEASE</spring.version>
+    <spring.version>6.0.0</spring.version>
   </properties>
 
   <dependencies>
